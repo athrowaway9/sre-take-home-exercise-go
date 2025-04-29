@@ -3,7 +3,7 @@
 ## Summary
 - I submitted this through a throwaway Github so none of my current colleagues would see that I am interviewing elsewhere.
 - I debated back and forth between using Python or Go, but ended up choosing Go as the clear winner in the end due to it's ease of use with concurrency.
-- If you're curious to see the unfiltered part of this all, I also uploaded a NOTES.md file which holds all of the random notes I took down while doing this exercise.
+- If you're curious to see the unfiltered part of this all, I also uploaded a `NOTES.md` file which holds all of the random notes I took down while doing this exercise.
 
 ## Requirements:
 1. Code must accept a YAML config as a command line argument
